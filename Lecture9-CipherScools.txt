@@ -1,0 +1,1 @@
+This lecture taught us the basics of loops and how it works. It also partially taught us the syntax of the for loop.
