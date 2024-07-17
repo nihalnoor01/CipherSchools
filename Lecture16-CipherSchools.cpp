@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int sum(int, int);
+int sum(int, int);//Function Protocol
 int main(){
     int a,b;
     a=3;b=5;
