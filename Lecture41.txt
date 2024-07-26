@@ -1,0 +1,3 @@
+In this lecture, we learned why analyzing algorithms is crucial for developing efficient code. Efficient algorithms run faster and use fewer resources, which is vital for handling large data sets and improving program performance.
+We discussed evaluating an algorithm's efficiency by counting the lines of code executed, which helps determine its time complexity. 
+Additionally, we were introduced to pseudocode, a high-level description of an algorithm that uses plain language and basic programming constructs, making it easier to understand and communicate the steps involved.
