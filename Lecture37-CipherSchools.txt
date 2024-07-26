@@ -1,0 +1,11 @@
+  In this DSA class, we learned about the importance of sorting, which organizes data to make it easier to search, analyze, and use efficiently.
+  The lecture was focused on selection sort. 
+  The selection sort procedure for ascending order involves starting with the first element, finding the smallest element in the unsorted portion, swapping it with the first element, and repeating this process for each subsequent element until the entire list is sorted. 
+  For descending order, the process is similar but involves finding the largest element instead. 
+  
+
+
+
+
+
+
