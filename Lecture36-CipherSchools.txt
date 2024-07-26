@@ -1,0 +1,3 @@
+The basics of algorithm were taught. An algorithm is a step-by-step procedure for solving a problem or completing a task. In the class, we learned that an efficient algorithm is crucial because it saves time and resources.
+Efficient algorithms perform better, especially with large data sets, making programs faster and more responsive. 
+They also use less memory, which is important for running applications smoothly on various devices.
