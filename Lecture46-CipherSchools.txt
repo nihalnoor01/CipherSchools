@@ -1,0 +1,2 @@
+In today's lecture, we were introduced to greedy algorithms using a real-life example of finding the number of lectures a student can attend between 1-16 hours.
+We discovered that simply choosing lectures with the least hours or earliest start times won't always work, highlighting the need for a more strategic approach to ensure the best overall schedule.
