@@ -1,0 +1,7 @@
+In today's lecture, we covered asymptotic notations, which are essential for analyzing the efficiency of algorithms.
+We focused on three key notations: Big O, Big Omega , and Big Theta . 
+Big O describes the upper bound of an algorithm's running time, providing the worst-case scenario and indicating how the runtime grows relative to the input size.
+For example, O(n²) means the running time increases quadratically. 
+Big Omega describes the lower bound, providing the best-case scenario and ensuring the algorithm will take at least a certain amount of time, such as Ω(n) for linear growth.
+Big Theta provides a tight bound, lying between two functions g(x) and describing both the upper and lower bounds, giving a precise measure of the growth rate, like Θ(n log n) indicating proportional growth in both best and worst cases. 
+These notations help us compare and understand the efficiency of different algorithms, ensuring we choose the most appropriate one for a given problem.
