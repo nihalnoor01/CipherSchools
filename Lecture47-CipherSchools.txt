@@ -1,0 +1,2 @@
+In this lecture, we learned about greedy algorithms using the example of scheduling lectures between 1-16 hours.
+We found that choosing lectures based on the least end time allows us to attend more classes, as it frees up time for subsequent lectures.
