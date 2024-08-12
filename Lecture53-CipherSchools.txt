@@ -1,0 +1,1 @@
+This lecture gave a brief introduction to Data Structures and Why are they important.
