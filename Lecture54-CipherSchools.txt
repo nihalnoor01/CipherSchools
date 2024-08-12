@@ -1,0 +1,1 @@
+This lecture gave introduction to Linked Lists. It was made clear how it can be used to overcome the limitations of Arrays. The core part of a linked list is known as the Node.
